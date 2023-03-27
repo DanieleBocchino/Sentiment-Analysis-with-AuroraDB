@@ -52,11 +52,11 @@ This tutorial guides you through integrating Amazon Comprehend for sentiment ana
 
 The following resources were used in the development of this project:
 
-- <img src="./assets/s3.png" alt="S3" width="25"> Amazon S3
-- <img src="./assets/iam.png" alt="IAM" width="25"> Amazon IAM roles
-- <img src="./assets/aurora.png" alt="Aurora" width="25"> Amazon Aurora
-- <img src="./assets/postgresql.png" alt="Postgresql" width="25"> PostgreSQL
-- <img src="./assets/sagemaker.png" alt="SageMaker" width="25"> Amazon SageMaker
+- <img src="./assets/Arch_AWS-IAM-Identity-Center_64@5x.png" alt="IAM" width="25"> Amazon IAM roles
+- <img src="./assets/Arch_Amazon-Aurora_64@5x.png" alt="Aurora" width="25"> Amazon Aurora
+- <img src="./assets/Arch_Amazon-Simple-Storage-Service_64@5x.png" alt="S3" width="25"> Amazon S3
+- <img src="./assets/Arch_Amazon-Comprehend_64@5x.png" alt="Postgresql" width="25"> Amazon Comprehend
+- <img src="./assets/Arch_Amazon-SageMaker_64@5x.png" alt="SageMaker" width="25"> Amazon SageMaker
 
 
 ## Contents
