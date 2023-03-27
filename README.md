@@ -32,7 +32,9 @@ This tutorial guides you through integrating Amazon Comprehend for sentiment ana
 <p align="center">
 <img src="./assets/schema.png" alt="schema" align="center">
 </p>
+
 ## Prerequisites
+
 - An AWS account
 - Basic knowledge of SQL and PostgreSQL
 - IAM roles with permissions to access Amazon Comprehend and Amazon S3
