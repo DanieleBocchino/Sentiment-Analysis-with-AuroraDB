@@ -9,8 +9,10 @@
 This is a mini project created using AWS Services - Amazon S3 and Amazon Quicksight. This project aims to provide instructions on how to use AWS services to create visualizations from large datasets. 
 
 [![AWS](https://img.shields.io/badge/AWS-100000?style=flat&logo=amazon&logoColor=FFFFFF&labelColor=5C5C5C&color=FF7300)](https://docs.aws.amazon.com/quicksight/latest/user/signing-up.html)
-[![S3](https://img.shields.io/badge/AWS_S3-100000?style=flat&logo=AmazonS3&logoColor=white&labelColor=494949&color=569A31)](https://aws.amazon.com/s3/)
-[![S3](https://img.shields.io/badge/AWS_Quicksight-100000?style=flat&logo=QuickLook&logoColor=white&labelColor=494949&color=22A2E3)](https://aws.amazon.com/quicksight/)
+[![IAM](https://img.shields.io/badge/AWS_IAM-100000?style=flat&logo=drone&logoColor=white&labelColor=494949&color=ED1C24)](https://aws.amazon.com/iam/)
+[![AURORA](https://img.shields.io/badge/AWS_Aurora-100000?style=flat&logo=AmazonRDS&logoColor=white&labelColor=494949&color=527FFF)](https://aws.amazon.com/aurora/)
+[![S3](https://img.shields.io/badge/AWS_Quicksight-100000?style=flat&logo=AmazonS3&logoColor=white&labelColor=494949&color=569A31)](https://aws.amazon.com/s3/)
+[![Postgres](https://img.shields.io/badge/PosgreSQL-100000?style=flat&logo=postgresql&logoColor=white&labelColor=494949&color=4169E1)](https://aws.amazon.com/quicksight/)
 
 ## Table of Contents
 
@@ -27,6 +29,9 @@ This is a mini project created using AWS Services - Amazon S3 and Amazon Quicksi
 ## Introduction
 This tutorial guides you through integrating Amazon Comprehend for sentiment analysis with an Amazon Aurora PostgreSQL database instance. Aurora machine learning enables developers to add machine learning capabilities to their applications using familiar SQL techniques, syntax, and interfaces, without prior machine learning experience or custom integrations.
 
+<p align="center">
+<img src="./assets/schema.png" alt="schema" align="center">
+</p>
 ## Prerequisites
 - An AWS account
 - Basic knowledge of SQL and PostgreSQL
