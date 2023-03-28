@@ -86,7 +86,7 @@ In this step, you use the pgAdmin 4 PostgreSQL Client to connect to the Aurora P
 ### Step 5: Query database with Amazon Comprehend
 In this step, you install extensions for machine learning and Amazon S3 access. Then, you set up and query a sample table. Finally, you load sample data from a customer review dataset and run queries on the customer reviews for sentiment analysis and confidence.
 
-n the query editor, run the following statement to install the Amazon ML services extension for model inference.
+In the query editor, run the following statement to install the Amazon ML services extension for model inference.
 ```
 CREATE EXTENSION IF NOT EXISTS aws_ml CASCADE;
 ```
